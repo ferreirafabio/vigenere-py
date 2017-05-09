@@ -8,5 +8,5 @@ The code runs the following steps:
 An example cipher has been attached. For simplicity, only upper case characters of the English alphabet have been considered. See https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher for more information.
 
 
-## to-do:
+To-do:
 code comments
